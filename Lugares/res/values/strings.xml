@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lugares</string>
+    <string name="action_settings">Settings</string>
+    <string name="imgLugares">Lugares</string>
+    <string name="pic01">Picture1</string>
+    <string name="pic02">Picture2</string>
+    <string name="pic03">Picture3</string>
+    <string name="pic04">Picture4</string>
+    <string name="pic05">Picture5</string>
+    <string name="info">Informacao</string>
+    <string name="nmCliente">Nome</string>
+    <string name="nmTelefone">Telefone</string>
+    <string name="dsViagem">Meta para próxima viagem</string>
+    <string name="dsHashtag">Hashtag</string>
+    <string name="dtViagem">Data da próxima viagem</string>
+    <string name="btnInfo">Atualizar Informações </string>
+    <string name="brnSalvar">Salvar</string>
+    <string name="btnLimpar">Limpar</string>
+
+</resources>
